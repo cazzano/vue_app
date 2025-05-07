@@ -11,11 +11,11 @@
         </div>
         <h1 class="text-4xl font-bold mb-2 flex items-center justify-center gap-2">
           <BadgeCheck class="text-primary" />
-          John Doe
+          Vincenzo Cazzano
         </h1>
         <p class="text-xl text-gray-600 flex items-center justify-center gap-2">
           <Code2 size="18" />
-          Full-Stack Developer
+          Full-Stack Web Developer
         </p>
       </div>
       <div class="card bg-base-100 p-6 shadow-md">

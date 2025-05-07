@@ -24,13 +24,13 @@
                   <div class="w-10 h-10 rounded-full bg-base-100 flex items-center justify-center mr-3">
                     <User size="18" class="text-primary" />
                   </div>
-                  <span class="text-base-content">John Doe</span>
+                  <span class="text-base-content">Vincenzo Cazzano</span>
                 </div>
                 <div class="flex items-center">
                   <div class="w-10 h-10 rounded-full bg-base-100 flex items-center justify-center mr-3">
                     <Mail size="18" class="text-primary" />
                   </div>
-                  <span class="text-base-content">email@example.com</span>
+                  <span class="text-base-content">cazzano@protonmail.com</span>
                 </div>
                 <div class="flex items-center">
                   <div class="w-10 h-10 rounded-full bg-base-100 flex items-center justify-center mr-3">
@@ -135,7 +135,7 @@
         <div class="card-body">
           <h2 class="card-title flex items-center justify-center text-base-content mb-6">
             <Globe class="mr-2 text-primary" size="20" />
-            Find Me On
+            Find Me On Internet
           </h2>
           <div class="flex justify-center gap-6">
             <a href="#" class="btn btn-circle btn-lg btn-ghost hover:btn-primary hover:text-primary-content group transition-all duration-300">

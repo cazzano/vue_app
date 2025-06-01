@@ -1,5 +1,0 @@
-*tailwindcss
-awsomefont icons
-*tauri
-*daisyui
-*luicide icons
